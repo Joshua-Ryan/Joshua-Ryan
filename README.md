@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joshua-Ryan
 - 👀 I’m interested in:
-      - Graphic Design & illustration
+      - Graphic Design & Illustration
       - Building cool work that incorporates the above or a new type of UX
 - 🌱 I’m currently learning:
       - 3js
