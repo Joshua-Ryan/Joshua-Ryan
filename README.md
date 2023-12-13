@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @Joshua-Ryan
 - 👀 I’m interested in:
       - Graphic Design & Illustration
+      - Angular & Typescript
       - Building cool work that incorporates the above or a new type of UX
 - 🌱 I’m currently learning:
-      - 3js
+      - C++
+      - UE5
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
       - https://joshryan.design
